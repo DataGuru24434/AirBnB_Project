@@ -59,7 +59,10 @@ ________________________________________
 •	GitHub | LinkedIn
 ________________________________________
 📷 Dashboard Preview
- 
+
+ ![Alt text]( https://github.com/DataGuru24434/AirBnB_Project/blob/master/AirBnB%20Dashboard.jpg?raw=true)
+
+
 ________________________________________
 📢 Acknowledgment
 Dataset sourced from Airbnb (Seattle, 2016). Visualization built in Tableau for educational and analytical purposes.
